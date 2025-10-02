@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Monday Barinua 👋
 
-<!--
-**Barinua-Mon/Barinua-mon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack MERN Developer passionate about crafting intuitive UIs and robust backends. Let's build something awesome!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on: E-commerce app with React + Node.js & next.js
+- 🌱 Learning: Next.js for SSR in MERN stacks
+- 👯 Open to: Open-source contributions in JavaScript ecosystems
+- ⚡ Fun fact: I code for fun😜!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| React ⚛️ | Node.js 🟢 | MongoDB, postgreSQL 🟢 | Git, VS Code, Postman |
+| Express.js | Mongoose | prisma |
+
+## 📫 Connect With Me
+- 📧 Email: mbmarshall002@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/barinua-mon
+- 🐦 Twitter: @Marshall
+
