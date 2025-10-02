@@ -11,5 +11,4 @@ Full-Stack MERN Developer passionate about crafting intuitive UIs and robust bac
 ## 📫 Connect With Me
 - 📧 Email: mbmarshall002@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/barinua-mon
-- 🐦 Twitter: https://x.com/Baron96795712?t=BXG3Ed_5hZ28dvTqLxprLQ&s=09
-
+- 🐦 Twitter: https://x.com/Baron96795712
